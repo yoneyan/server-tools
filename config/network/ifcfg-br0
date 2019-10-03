@@ -1,0 +1,8 @@
+TYPE="Bridge"
+BOOTPROTO=none
+DEFROUTE="yes"
+PEERDNS="yes"
+PEERROUTES="yes"
+NAME="br0"
+DEVICE="br0"
+ONBOOT="yes"

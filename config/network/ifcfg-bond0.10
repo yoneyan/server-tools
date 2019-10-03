@@ -1,0 +1,7 @@
+TYPE="Ethernet"
+BOOTPROTO=none
+DEVICE="bond0.10"
+NM_CONTROLLED=no
+ONBOOT="yes"
+VLAN=yes
+NOZEROCONF=yes
